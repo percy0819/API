@@ -1,0 +1,44 @@
+.jumbotron{
+	margin-bottom: 0px;
+    background-image: url(img/Pic3.jpg); */
+    background-position: 0% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+.background{
+	background-image: url(img/Pic2.jpg); */
+	background-position: 0% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*color: white; */
+}
+.h2{
+    color: white;  
+    /* color: GhostWhite ; */
+    background-color: green;
+}
+.p{
+   color: GhostWhite;
+   background-color: lightblue; 
+}
+.desc{
+    
+    color: white;
+    font-size: 200%;
+}
+.div-a {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s; /* Safari */
+    transition: width 2s;
+}
+.div:hover {
+    width: 300px;
+}
+.a{
+    font-size: 200%;
+    background-color: #4CAF50;
+}
